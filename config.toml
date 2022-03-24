@@ -1,0 +1,11 @@
+# 基本設置
+baseURL = 'https://lanternxu.github.io/'
+languageCode = 'zh-hans'
+title = '乱噏'
+
+# 主題設置
+theme="diary"
+
+# 連結設置
+[permalinks]
+  posts = "/:year/:month/:title/"
